@@ -20,7 +20,7 @@ To use this project, run the script and follow the prompts.
 
 ## Files
 
-- `student_tracking.py`: The main script
+- `student_tracking.ipynb`: The main script
 
 ## Contributing
 
